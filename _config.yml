@@ -1,4 +1,4 @@
-remote_theme: SdtElectronics/jekyll-theme-antarctica
+remote_theme: deepidea/web-presentation
 
 # Theme Antarctica
 #
@@ -21,9 +21,9 @@ remote_theme: SdtElectronics/jekyll-theme-antarctica
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Theme Antarctica
-email: your-email@domain.com
-author: SdtElectronics
+title: -717/515-
+email: oppositium@outlook.com
+author: naroukpi717
 
 # Copyright setting
 # You can use any html code, currently below placeholders are available:
